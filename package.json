@@ -1,0 +1,15 @@
+
+{
+  "name": "api-purchase",
+  "version": "1.0.0",
+  "description": "API de Purchase para Conversions API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
